@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository for your research, teaching, or analysis, please cite it as below."
+title: "CLASS vs CAMB: Comparative Analysis"
+authors:
+  - family-names: "Arwen"
+    given-names: "Béla"
+    affiliation: "Stony Brook University"
+date-released: "2025-06-12"
+version: "1.0.0"
+repository-code: "https://github.com/Bela-Arwen-SBU/class-vs-camb"
