@@ -22,7 +22,7 @@ This repository contains notebooks and scripts for comparing the outputs of CLAS
 - Visualize differences with easy-to-edit plotting scripts.
 - Modular structure for adding new models and parameter scans.
 
----
+<!---
 
 ## Getting Started
 
@@ -73,7 +73,7 @@ class-vs-camb/
 <!-- Optionally add example figures here when available -->
 <!-- ![Sample Comparison Plot](notebooks/example_plot.png) -->
 
----
+--->
 
 ## Citation
 
