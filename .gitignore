@@ -1,0 +1,78 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# CLASS specific outputs
+class/
+class/output/
+class/explanatory*.ini
+class/*_pk*.dat
+class/*_cl*.dat
+class/*_background*.dat
+class/test/
+
+# CAMB specific outputs
+CAMB/
+CAMB/fortran/
+CAMB/camb
+CAMB/*.mod
+CAMB/*.o
+CAMB/fortran/*.o
+CAMB/fortran/*.mod
+CAMB/*_matterpower*.dat
+CAMB/*_scalCls*.dat
+CAMB/*_transfer*.dat
+CAMB/test_*
+
+# Compiled code
+*.so
+*.a
+*.exe
+
+# Large data outputs
+output/
+results/
+data/
+*.fits
+*.hdf5
+*.h5
+*.dat
+*.npz
+*.pkl
+
+# Generated comparison files
+*_comparison*.dat
+*_difference*.dat
+
+# Plots (keep some organized ones)
+plots/
+figures/
+*.eps
+*.pdf  
+*.png
+# Exception: keep important comparisons
+!*_comparison*.eps
+!*_comparison*.pdf
+!*_comparison*.png
+
+# Temporary and log files
+*.tmp
+*~
+*.log
+*.out
+nohup.out
+
+# System files
+.DS_Store
+Thumbs.db
+.directory
+
+# Archived/old files
+*\ \(old\)*
+*(old)*
+*_old*
+*-old*
