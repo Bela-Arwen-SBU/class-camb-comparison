@@ -73,7 +73,7 @@ class-vs-camb/
 <!-- Optionally add example figures here when available -->
 <!-- ![Sample Comparison Plot](notebooks/example_plot.png) -->
 
---->
+---
 
 ## Citation
 
